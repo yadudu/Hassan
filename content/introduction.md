@@ -6,4 +6,4 @@ draft: false
 
 My name is Abubakar Yadudu, I'm a senior majoring in ICT. I enjoy playing soccer during my free time.  
 
-![this is a picture by French artist](https://festive-ptolemy-dadc6b.netlify.app/FAA3E6E5-6724-4CB0-925D-0520BAFFBB87.jpeg)
+![This is a picture by French artist](https://festive-ptolemy-dadc6b.netlify.app/FAA3E6E5-6724-4CB0-925D-0520BAFFBB87.jpeg)
