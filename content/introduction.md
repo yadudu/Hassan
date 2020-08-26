@@ -5,3 +5,5 @@ draft: false
 ---
 
 My name is Abubakar Yadudu, I'm a senior majoring in ICT. 
+
+![this is a picture by French artist ]()
