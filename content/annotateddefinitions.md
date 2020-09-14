@@ -3,3 +3,6 @@ title: "Annotated Definitions"
 date: 2020-08-24T00:00:00-04:00
 draft: false
 ---
+
+Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium.
+
