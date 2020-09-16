@@ -1,7 +1,7 @@
 baseURL = "https://festive-ptolemy-dadc6b.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "hugo-theme-m10c-master"
 
 [build]
 publish = "public"
