@@ -1,6 +1,6 @@
 ---
 title: "Learning Report for Module 11"
-date: 2020-10-23T00:00:00-04:00
+date: 2020-10-30T00:00:00-04:00
 draft: false
 ---
 1. At this point in the semester, we have been through quite a bit of material and in the process, I have been able to learn a good variety of the key concepts associated with content management.  
